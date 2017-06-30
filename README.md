@@ -1,1 +1,1 @@
-# mirai-telnet-filter
+ Mirai Telnet List Filter/Converter
